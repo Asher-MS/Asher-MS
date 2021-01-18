@@ -6,7 +6,7 @@
 
 [![Asher's's github stats](https://github-readme-stats.vercel.app/api?username=asher-ms&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[!Asher languages](https://github-readme-stats.vercel.app/api/top-langs/api?username=asher-ms&layout=compact&theme=tokyonight&cache_seconds=86400)
+[!Asher languages](https://github-readme-stats.vercel.app/api/top-langs?username=asher-ms&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 <!--
 **Asher-MS/Asher-MS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
