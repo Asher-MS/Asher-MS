@@ -8,6 +8,9 @@
 
 [![Asher languages](https://github-readme-stats.vercel.app/api/top-langs?username=asher-ms&layout=compact&theme=tokyonight&cache_seconds=86400)
 
+![Visual Studio Code](https://github.com/Asher-MS/Asher-MS/blob/main/icons8-visual-studio-code-2019-50.png)
+![Javscript](https://github.com/Asher-MS/Asher-MS/blob/main/icons8-javascript-50.png)
+![Python](https://github.com/Asher-MS/Asher-MS/blob/main/icons8-python-50.png)
 
 
 
