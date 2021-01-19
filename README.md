@@ -11,9 +11,9 @@
 
 
 <h1>Tools And Technologies</h1>
-![Visual Studio Code](icons8-visual-studio-code-2019-50.png)
-![Javascript](icons8-javascript-50.png)
-![Python](icons8-python-50.png)
+[![Visual Studio Code](icons8-visual-studio-code-2019-50.png)
+[![Javascript](icons8-javascript-50.png)
+[![Python](icons8-python-50.png)
 
 <!--
 **Asher-MS/Asher-MS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
