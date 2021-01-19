@@ -10,10 +10,6 @@
 
 
 
-<h1>Tools And Technologies</h1>
-[![Visual Studio Code](https://octodex.github.com/images/yaktocat.png)
-[![Javascript](icons8-javascript-50.png)
-[![Python](icons8-python-50.png)
 
 <!--
 **Asher-MS/Asher-MS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
