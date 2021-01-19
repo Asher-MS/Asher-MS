@@ -14,9 +14,7 @@
 <h1>Tools And Technologies</h1>
 
 ![Visual Studio Code](https://github.com/Asher-MS/Asher-MS/blob/main/icons8-visual-studio-code-2019-50.png)
-
 ![Javscript](https://github.com/Asher-MS/Asher-MS/blob/main/icons8-javascript-50.png)
-
 ![Python](https://github.com/Asher-MS/Asher-MS/blob/main/icons8-python-50.png)
 
 
