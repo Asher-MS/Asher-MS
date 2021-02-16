@@ -1,6 +1,6 @@
 ### Hi there 👋
   I am Student/Programmer from India.
-- 🔭 I’m currently working on a program to generate transcript from videos
+- 🔭 I’m currently working on website to track your workouts
 - 🌱 I’m currently learning ... Javascript
 - 🤔 I’m looking for help with ... Competetive Programming
 
