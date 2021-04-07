@@ -1,5 +1,5 @@
 ### Hi there 👋
-  I am Student/Programmer from India.
+  I am Studentfrom India.
 - 🔭 I’m currently working on website to track your workouts
 - 🌱 I’m currently learning ... Javascript
 - 🤔 I’m looking for help with ... Competetive Programming
