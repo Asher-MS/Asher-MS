@@ -2,7 +2,6 @@
   I am Student from India.
 - 🔭 I’m currently working on website to track your workouts
 - 🌱 I’m currently learning ... Javascript
-- 🤔 I’m looking for help with ... Competetive Programming
 
 [![Asher's's github stats](https://github-readme-stats.vercel.app/api?username=asher-ms&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
