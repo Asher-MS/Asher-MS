@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Asher Mathews Shaji</h1>
 <h3 align="center">Passionate developer from Kerala,India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asher-ms" alt="asher-ms" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asher-ms" alt="asher-ms" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/asher_mathews" target="blank"><img src="https://img.shields.io/twitter/follow/asher_mathews?logo=twitter&style=for-the-badge" alt="asher_mathews" /></a> </p>
 
-- 🔭 I’m currently working on **covid test centre locator**
+- 🔭 I’m currently working on **Timdo**
 
 - 🌱 I’m currently learning **django**
 
