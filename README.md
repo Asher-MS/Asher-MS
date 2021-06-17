@@ -33,10 +33,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asher-ms&show_icons=true&locale=en&layout=compact" alt="asher-ms" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asher-ms&show_icons=true&locale=en" alt="asher-ms" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asher-ms&" alt="asher-ms" /></p>
-
-# Blog posts
+<!-- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asher-ms&" alt="asher-ms" /></p> -->
+<!-- 
+# Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
