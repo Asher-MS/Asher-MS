@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **django**
 
-- 👨‍💻 All of my projects are available at [asher-ms.github.io](asher-ms.github.io)
+- 👨‍💻 All of my projects are available at [asher-ms.github.io](https://asher-ms.github.io)
 
 - 📝 I write articles on [https://dev.to/asherms](https://dev.to/asherms)
 
