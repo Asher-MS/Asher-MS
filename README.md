@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on <a href="https://timdo.ashermathews.co">**Timdo**</a>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Unity Engine**
 
 - 👨‍💻 All of my projects are available at [portfolio.ashermathews.co](https://portfolio.ashermathews.co)
 
