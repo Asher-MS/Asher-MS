@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/asher_mathews" target="blank"><img src="https://img.shields.io/twitter/follow/asher_mathews?logo=twitter&style=for-the-badge" alt="asher_mathews" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://timdo.ashermathews.co">**Timdo**</a>
+- 🔭 I’m currently working on <a href="https://timdo.ashermathews.co">**Being a better human being**</a>
 
-- 🌱 I’m currently learning **Unity Engine**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [portfolio.ashermathews.co](https://portfolio.ashermathews.co)
 
