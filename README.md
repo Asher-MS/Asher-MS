@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/asher_mathews" target="blank"><img src="https://img.shields.io/twitter/follow/asher_mathews?logo=twitter&style=for-the-badge" alt="asher_mathews" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://timdo.ashermathews.co">**Being a better human being**</a>
+- 🔭 I’m currently working on **Being a better human being**
 
 - 🌱 I’m currently learning **Machine Learning**
 
